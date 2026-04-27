@@ -52,10 +52,20 @@ cd Birthday_Wish-Project
 ## 💡 Usage
 
 1. Open `index.html` in your web browser
-2. The animations will start automatically with background music
-3. Scroll down to see all the birthday wishes and memories
-4. Click the replay button (💞) at the bottom to watch the animation again
-5. Share the link with the birthday person.
+2. The page loads with smooth animations automatically
+3. Background birthday music plays (you can mute if needed)
+4. Scroll through 9 animated sections showing:
+   - Greeting message with name
+   - Birthday announcement
+   - Chat-style message
+   - Emotional narrative
+   - Profile picture with birthday wish
+   - Balloon animations
+   - Confetti effects
+   - Memory gallery
+   - Final message with replay button
+5. Click the 💞 (replay button) at the end to watch the animation again.
+
 
 ## 🎨 Customization
 
@@ -116,4 +126,4 @@ Have suggestions or found a bug? Feel free to:
 
 **Happy Birthday! 🎂🎉🎊**
 
-_Made with ❤️ by Aman-raj048_
+_Made with ❤️ by Aman Raj
