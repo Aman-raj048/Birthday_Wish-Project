@@ -51,11 +51,11 @@ cd Birthday_Wish-Project
 
 ## 💡 Usage
 
-1. Open the application in your browser
-2. Enter the birthday person's name
-3. Write your birthday message
-4. Click "Send Wish" or similar button to see animations
-5. Share the link with your friends and family
+1. Open `index.html` in your web browser
+2. The animations will start automatically with background music
+3. Scroll down to see all the birthday wishes and memories
+4. Click the replay button (💞) at the bottom to watch the animation again
+5. Share the link with the birthday person.
 
 ## 🎨 Customization
 
