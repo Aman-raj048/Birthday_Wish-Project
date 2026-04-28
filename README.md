@@ -76,7 +76,7 @@ cd Birthday_Wish-Project
 
 ### Customize Greeting Text
 - Line 32: Edit id="greetingText" to change the greeting message
-- Example: <p class="two" id="greetingText">I think you're awesome! 💕</p>
+- Example: `<p class="two" id="greetingText">I think you're awesome! 💕</p>`
 
 ### Update Birthday Message
 - Lines 41-43: Edit the hbd-chatbox paragraph with your custom message
@@ -85,17 +85,17 @@ cd Birthday_Wish-Project
 ### Modify the Birthday Wish
 - Lines 71-79: Edit the text inside id="wishText"
 - Replace Lorem ipsum with your personalized birthday wish
-- Keep the br tags for line breaks
+- Keep the `<br><br>` tags for line breaks
 
 ### Add Your Photos
 - Profile Picture:
-   - Line 67: Replace ./img/aman.jpeg with your image path
+   - Line 67: Replace `./img/aman.jpeg` with your image path
    - Recommended size: Square image (300x300px)
 - Memory Gallery:
-   - Lines 155-170: Replace image paths from ./img/one.jpeg to ./img/fifteen.jpeg
+   - Lines 155-170: Replace image paths from `./img/one.jpeg` to `./img/fifteen.jpeg`
    - Add or remove <img> tags as needed
    - Recommended size: 200x200px square images
-Change the gallery title (Line 153): Our Some Memories 💖
+   - Change the gallery title (Line 153): Our Some Memories 💖
 
 ### Change Background Music
 - Line 21: Replace ./music/hbd.mpeg with your audio file path
@@ -106,15 +106,13 @@ Change the gallery title (Line 153): Our Some Memories 💖
 - Open style/main.css
 - Update CSS variables and color codes
 - Change font sizes, animations timing
+- Modify balloon and confetti colors
   
-Modify balloon and confetti colors
-Modify Animation Timing
-Open script/main.js
-Adjust GSAP animation durations
-Change animation sequences and delays
-Customize scroll triggers if needed
-
-
+### Modify Animation Timing
+- Open script/main.js
+- Adjust GSAP animation durations
+- Change animation sequences and delays
+- Customize scroll triggers if needed
 
 
 ## 📚 Features Breakdown
