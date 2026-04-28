@@ -2,6 +2,12 @@
 
 A beautiful and interactive web application to send and celebrate birthday wishes with animated effects and personalized messages.
 
+## 🌐 Live Demo
+
+**[View Live Site](https://aman-raj048.github.io/Birthday_Wish-Project/)** 🎊
+
+Click the link above to see the Birthday Wish Project in action!
+
 ## ✨ Features
 
 - 🎂 **Birthday Wishes** - Create and send personalized birthday messages
