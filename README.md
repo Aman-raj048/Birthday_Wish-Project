@@ -70,20 +70,20 @@ cd Birthday_Wish-Project
 ## 🎨 Customization
 
 ### Change the Name
-- Open index.html
-- Line 30: Replace <span id="name">Aman</span> with your desired name
+- Open `index.html`
+- Line 30: Replace `<span id="name">Aman</span>` with your desired name
 - The name will appear throughout the page
 
 ### Customize Greeting Text
-- Line 32: Edit id="greetingText" to change the greeting message
+- Line 32: Edit `id="greetingText"` to change the greeting message
 - Example: `<p class="two" id="greetingText">I think you're awesome! 💕</p>`
 
 ### Update Birthday Message
-- Lines 41-43: Edit the hbd-chatbox paragraph with your custom message
+- Lines 41-43: Edit the `hbd-chatbox` paragraph with your custom message
 - This is the chat-style message that appears early in the animation
   
 ### Modify the Birthday Wish
-- Lines 71-79: Edit the text inside id="wishText"
+- Lines 71-79: Edit the text inside `id="wishText"`
 - Replace Lorem ipsum with your personalized birthday wish
 - Keep the `<br><br>` tags for line breaks
 
@@ -93,23 +93,23 @@ cd Birthday_Wish-Project
    - Recommended size: Square image (300x300px)
 - Memory Gallery:
    - Lines 155-170: Replace image paths from `./img/one.jpeg` to `./img/fifteen.jpeg`
-   - Add or remove <img> tags as needed
+   - Add or remove `<img>` tags as needed
    - Recommended size: 200x200px square images
-   - Change the gallery title (Line 153): Our Some Memories 💖
+   - Change the gallery title (Line 153): `Our Some Memories 💖`
 
 ### Change Background Music
-- Line 21: Replace ./music/hbd.mpeg with your audio file path
+- Line 21: Replace `./music/hbd.mpeg` with your audio file path
 - Supported formats: .mp3, .mpeg, .wav
 - Keep the audio as background (loops automatically)
 
 ### Customize Colors & Fonts
-- Open style/main.css
+- Open `style/main.css`
 - Update CSS variables and color codes
 - Change font sizes, animations timing
 - Modify balloon and confetti colors
   
 ### Modify Animation Timing
-- Open script/main.js
+- Open `script/main.js`
 - Adjust GSAP animation durations
 - Change animation sequences and delays
 - Customize scroll triggers if needed
