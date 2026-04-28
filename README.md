@@ -69,17 +69,53 @@ cd Birthday_Wish-Project
 
 ## 🎨 Customization
 
-### Modify Colors
-- Edit the CSS variables in `style.css`
-- Change background colors, text colors, and animation colors
+### Change the Name
+- Open index.html
+- Line 30: Replace <span id="name">Aman</span> with your desired name
+- The name will appear throughout the page
 
-### Add New Animations
-- Open `script.js` and add new animation functions
-- Customize animation timing and effects in `style.css`
+### Customize Greeting Text
+- Line 32: Edit id="greetingText" to change the greeting message
+- Example: <p class="two" id="greetingText">I think you're awesome! 💕</p>
 
-### Personalize Messages
-- Update the default messages in `script.js`
-- Add new greeting templates
+### Update Birthday Message
+- Lines 41-43: Edit the hbd-chatbox paragraph with your custom message
+- This is the chat-style message that appears early in the animation
+  
+### Modify the Birthday Wish
+- Lines 71-79: Edit the text inside id="wishText"
+- Replace Lorem ipsum with your personalized birthday wish
+- Keep the br tags for line breaks
+
+### Add Your Photos
+- Profile Picture:
+   - Line 67: Replace ./img/aman.jpeg with your image path
+   - Recommended size: Square image (300x300px)
+- Memory Gallery:
+   - Lines 155-170: Replace image paths from ./img/one.jpeg to ./img/fifteen.jpeg
+   - Add or remove <img> tags as needed
+   - Recommended size: 200x200px square images
+Change the gallery title (Line 153): Our Some Memories 💖
+
+### Change Background Music
+- Line 21: Replace ./music/hbd.mpeg with your audio file path
+- Supported formats: .mp3, .mpeg, .wav
+- Keep the audio as background (loops automatically)
+
+### Customize Colors & Fonts
+- Open style/main.css
+- Update CSS variables and color codes
+- Change font sizes, animations timing
+  
+Modify balloon and confetti colors
+Modify Animation Timing
+Open script/main.js
+Adjust GSAP animation durations
+Change animation sequences and delays
+Customize scroll triggers if needed
+
+
+
 
 ## 📚 Features Breakdown
 
